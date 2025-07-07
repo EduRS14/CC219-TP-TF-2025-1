@@ -1,0 +1,1 @@
+En esta carpeta se encuentran los diferentes archivos sobre los programas y software del proyecto. Está el archivo de preprocesamiento ("TP_Data_Science.ipynb"), el del modelo ("model.pkl") y el del entrenamiento, inferencia y gradio ("Data_Science_TF_Final.ipynb").
