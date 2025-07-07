@@ -36,7 +36,7 @@ Para este proyecto se realizó una **binarización** de las etiquetas, creando u
 
 Se eliminaron duplicados y se procesaron textos para normalizar datos. Finalmente, se usaron **TF-IDF** y **Regresión Logística** para clasificar los tweets.
 
-📎 *(Puedes adjuntar el archivo PDF del informe completo aquí si se desea.)*
+📎 [Informe completo en PDF](./Informe%20TF%20Aplicaciones%20de%20Data%20Science.pdf)
 
 ## ✅ Conclusiones
 
