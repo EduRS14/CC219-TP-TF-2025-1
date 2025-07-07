@@ -1,0 +1,2 @@
+En la presente carpeta se encuentran dos datasets, uno con la data original (llamado "training.1600000.processed.noemoticon.csv"), 
+mientras que el otro posee la data final (llamado "tweets_clean"). Ambos estuvieron presentes en el proceso del proyecto, principalmente en el preprocesamiento.
